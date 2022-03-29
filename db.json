@@ -1,0 +1,12 @@
+{
+    "crif_lex" : [
+        {
+            "id": "1",
+            "cri_flex": true
+        },
+        {
+            "id": "2",
+            "cri_flex": false
+        }
+    ]
+}
